@@ -2,6 +2,14 @@
 
 Bem-vindo ao PrivacyOpenSource, um repositório colaborativo dedicado à compilação de textos, recursos e ferramentas relacionadas à privacidade, segurança e aplicativos para dispositivos móveis e desktop. O objetivo deste repositório é fornecer uma coleção abrangente de informações que promovam a conscientização sobre privacidade e capacitem os usuários a tomar decisões informadas sobre suas vidas digitais.
 
+Topicos: 
+
+- Sobre
+- Contribuindo
+- Feedback e Sugestões
+- Contato
+  
+
 ## Sobre
 
 O PrivacyOpenSource serve como um centro central para compartilhar conhecimentos, ideias e recursos no campo da privacidade e aplicativos de código aberto. É um projeto aberto e colaborativo onde qualquer pessoa pode contribuir, adicionando links, artigos, tutoriais ou ferramentas relacionadas aos seguintes tópicos:
