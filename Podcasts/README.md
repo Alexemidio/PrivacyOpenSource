@@ -19,3 +19,9 @@ O "Opt Out Podcast" é um podcast dedicado a ajudá-lo a escapar do capitalismo 
 **[Intel Techniques](https://inteltechniques.com/podcast.html)** (Conteúdo em Inglês)
 
 O "Intel Techniques" podcast apresenta ideias para ajudá-lo a se tornar digitalmente invisível , várias soluções de privacidade e sobre OSINT (Open Source Inteligência) ficar protegido contra ameaças cibernéticas e torná-lo um melhor investigador online.
+
+-----
+
+**[The Vonu podcast](https://vonupodcast.com/)** (Conteúdo em Inglês)
+
+O "The Vonu podcast" Tornando você invulnerável à coerção do Estado e da sociedade servil.
