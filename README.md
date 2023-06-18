@@ -1,3 +1,6 @@
+![Privacy Open Source](https://robohash.org/Privacy%20Open%20Source.png?set=set3)
+
+
 # PrivacyOpenSource
 
 Bem-vindo ao PrivacyOpenSource, um repositório colaborativo dedicado à compilação de textos, recursos e ferramentas relacionadas à privacidade, segurança e aplicativos para dispositivos móveis e desktop. O objetivo deste repositório é fornecer uma coleção abrangente de informações que promovam a conscientização sobre privacidade e capacitem os usuários a tomar decisões informadas sobre suas vidas digitais.
