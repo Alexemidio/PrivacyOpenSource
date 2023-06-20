@@ -52,6 +52,12 @@ Este artigo explora o conceito e a implementação I2P é uma rede anônima, ofe
 
 -----
 
+**[F-Droid](https://snort.social/e/nevent1qqst4kry49cc9g3g8s5gdnpgyk3gjte079jdnv43f0x4e85cjkxzjesppemhxue69uhkummn9ekx7mp04lgmk4)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação F-Droid é uma plataforma de distribuição de software para o sistema operacional Android, que se concentra em aplicativos de código aberto e de software livre. Ele permite que os usuários descubram, baixem e instalem aplicativos em seus dispositivos Android sem depender da Google Play Store, que é a loja de aplicativos padrão do Android.
+
+-----
+
 **[Nome do Artigo](https://www.link-do-artigo.com)** (Conteúdo em Língua do Artigo)
 
 Mussum Ipsum, cacilds vidis litro abertis. Aenean aliquam molestie leo, vitae iaculis nisl.Sapien in monti palavris qui num significa nadis i pareci latim.Casamentiss faiz malandris se pirulitá.Mé faiz elementum girarzis, nisi eros vermeio.
