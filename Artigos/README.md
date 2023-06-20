@@ -83,15 +83,21 @@ Este artigo explora o conceito e a implementação LibreWolf é um navegador de 
 
 ----
 
+**[Searx](https://snort.social/e/nevent1qqsp5nqnq4v0f0t5tg3n9uutqnj4a023839x4352cjwyhe6mrdl729qpp2lht)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Searx o buscador de código aberto que preserva a privacidade.
+
+-----
+
 **[Tails : (The Amnesic Incognito Live System)](https://snort.social/e/nevent1qqs00eu43pkpj5la50hyd482frectpa4p5ysjhrm0ks0ss084lyxknscdvwz9)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação Tails é um sistema operacional portátil baseado em Linux que pode ser iniciado a partir de um pen drive ou DVD. Ele é projetado para manter sua privacidade enquanto navega na internet, protegendo você de vigilância e censura. O Tails é gratuito e de código aberto, o que significa que qualquer pessoa pode usá-lo e modificá-lo.
 
 -----
 
-**[Searx](https://snort.social/e/nevent1qqsp5nqnq4v0f0t5tg3n9uutqnj4a023839x4352cjwyhe6mrdl729qpp2lht)** (Conteúdo em Português)
+**[Whonix](https://snort.social/e/nevent1qqs85gvejvzhk086lwh6edma7fv07p5c3wnwnxnzthwwntg2x6773eg3z60dx)** (Conteúdo em Português)
 
-Este artigo explora o conceito e a implementação Searx o buscador de código aberto que preserva a privacidade
+Este artigo explora o conceito e a implementação Whonix é um sistema operacional de código aberto baseado em Debian Linux que fornece anonimato, privacidade e segurança ao navegar na internet.Ele é baseado no conceito de "separação de privilégios", o que significa que ele separa o sistema operacional em duas máquinas virtuais separadas, uma para o sistema operacional e outra para as aplicações. Isso permite que as aplicações rodem em um ambiente isolado e seguro, sem acesso direto à rede e aos recursos do sistema, protegendo assim a privacidade do usuário.
 
 -----
 
