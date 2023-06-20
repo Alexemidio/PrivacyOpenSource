@@ -58,6 +58,12 @@ Este artigo explora o conceito e a implementação F-Droid é uma plataforma de 
 
 -----
 
+**[Orbot ( O Robô de Roteamento de Cebola para Android )](https://snort.social/e/nevent1qqsxswkyt6pe34egxp9w70cy83h40ururj6m9sxjdmfass4cjm4495sppemhxue69uhkummn9ekx7mp0xlupn7)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Orbot é um aplicativo de código aberto para dispositivos Android que oferece anonimato e segurança aos usuários da Internet. Ele funciona como um front-end para o Tor, permitindo que os usuários se conectem à rede Tor e usem serviços online de forma anônima e segura.
+
+-----
+
 **[Nome do Artigo](https://www.link-do-artigo.com)** (Conteúdo em Língua do Artigo)
 
 Mussum Ipsum, cacilds vidis litro abertis. Aenean aliquam molestie leo, vitae iaculis nisl.Sapien in monti palavris qui num significa nadis i pareci latim.Casamentiss faiz malandris se pirulitá.Mé faiz elementum girarzis, nisi eros vermeio.
