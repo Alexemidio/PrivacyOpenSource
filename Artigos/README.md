@@ -52,6 +52,12 @@ Este artigo explora o conceito e a implementação SimpleXchat mensageiro revolu
 
 -----
 
+**[Element Messenger](https://snort.social/e/nevent1qqsq05snlqtxm5cpzkshlf8n5d5rj9383vjytkvqp5gta37hpuwt4mqppemhxue69uhkummn9ekx7mp0e4anpa)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Element Messenger é um aplicativo de chat criptografado de ponta a ponta baseado na tecnologia Matrix, que permite que os usuários se comuniquem de forma segura e privada.
+
+-----
+
 **[Navegador Tor](https://snort.social/e/nevent1qqs2hvgmmt70rau5v83se262nj9pfpu3hwd5nv598ekjsrp44hgcxngppemhxue69uhkummn9ekx7mp0sddz5j)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação Navegador Tor é um software livre e gratuito de código aberto que permite aos usuários navegar na Internet de forma anônima. O nome Tor vem de “The Onion Router” (roteador de cebola, em tradução livre) devido à sua estrutura de rede em camadas.
