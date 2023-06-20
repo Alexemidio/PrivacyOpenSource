@@ -64,6 +64,12 @@ Este artigo explora o conceito e a implementação Orbot é um aplicativo de có
 
 -----
 
+**[Standard Notes](https://snort.social/e/nevent1qqsv3596kz3qung5v23cjc4cpq7rqxg08y36rmzgcrvw5whtme83y3sppemhxue69uhkummn9ekx7mp0jzy57r)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Standard Notes é um aplicativo de gerenciamento de informações pessoais de código aberto, que utiliza criptografia de ponta a ponta para proteger seus dados de acesso não autorizado.
+
+-----
+
 **[Nome do Artigo](https://www.link-do-artigo.com)** (Conteúdo em Língua do Artigo)
 
 Mussum Ipsum, cacilds vidis litro abertis. Aenean aliquam molestie leo, vitae iaculis nisl.Sapien in monti palavris qui num significa nadis i pareci latim.Casamentiss faiz malandris se pirulitá.Mé faiz elementum girarzis, nisi eros vermeio.
