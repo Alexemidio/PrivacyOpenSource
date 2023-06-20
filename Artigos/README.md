@@ -76,6 +76,12 @@ Este artigo explora o conceito e a implementação Briar é um aplicativo de men
 
 -----
 
+**[LibreWolf](https://snort.social/e/nevent1qqszv2lepkmxrjm8t9yjz7nrk2nfy4uk0expy4h37kucla07rdexgwsppemhxue69uhkummn9ekx7mp00e7y6d)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação LibreWolf é um navegador de código aberto baseado no Firefox que se destaca como uma das melhores opções de navegadores para desktop.
+
+----
+
 **[Nome do Artigo](https://www.link-do-artigo.com)** (Conteúdo em Língua do Artigo)
 
 Mussum Ipsum, cacilds vidis litro abertis. Aenean aliquam molestie leo, vitae iaculis nisl.Sapien in monti palavris qui num significa nadis i pareci latim.Casamentiss faiz malandris se pirulitá.Mé faiz elementum girarzis, nisi eros vermeio.
