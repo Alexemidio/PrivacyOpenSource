@@ -4,6 +4,12 @@ Este artigo exploramos o conceito e a implementação do PGP, um sistema de crip
 
 -----
 
+**[Openkeychain](https://snort.social/e/nevent1qqsp89s298md3d4ueuundglkppt3ypz5elnfpc9rjgluaq5qek6l7wgppemhxue69uhkummn9ekx7mp0el679z)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação OpenKeychain é uma aplicação de criptografia de código aberto para Android, Ele usa a tecnologia PGP (Pretty Good Privacy) para criptografar e descriptografar informações.
+
+-----
+
 **[VPN (Virtual Private Network)](https://snort.social/e/nevent1qqsrtcttvl84a9de3z67czn0qpsrepfvjrplvacrufa776kz2tzw2zqqu8lqc)** (Conteúdo em Português)
 
 Este artigo oferece uma visão abrangente sobre VPN (Rede Virtual Privada) e sua importância na melhoria da privacidade e segurança online. Ele aborda os conceitos fundamentais por trás da tecnologia VPN e suas aplicações práticas.
