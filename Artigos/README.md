@@ -59,6 +59,12 @@ Este artigo explora o conceito e a implementação SimpleXchat mensageiro revolu
 
 -----
 
+**[BRIAR](https://snort.social/e/nevent1qqs8rrtgvjr499hreugetrl7adkhsj2zextyfsukq5aa7wxthrgcqcgppemhxue69uhkummn9ekx7mp0mwqkfr)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Briar é um aplicativo de mensagens projetado para ativistas, jornalistas e qualquer pessoa que precise de uma maneira segura, fácil e robusta de se comunicar.
+
+-----
+
 **[Element Messenger](https://snort.social/e/nevent1qqsq05snlqtxm5cpzkshlf8n5d5rj9383vjytkvqp5gta37hpuwt4mqppemhxue69uhkummn9ekx7mp0e4anpa)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação Element Messenger é um aplicativo de chat criptografado de ponta a ponta baseado na tecnologia Matrix, que permite que os usuários se comuniquem de forma segura e privada.
@@ -70,6 +76,12 @@ Este artigo explora o conceito e a implementação Element Messenger é um aplic
 Este artigo explora o conceito e a implementação Navegador Tor é um software livre e gratuito de código aberto que permite aos usuários navegar na Internet de forma anônima. O nome Tor vem de “The Onion Router” (roteador de cebola, em tradução livre) devido à sua estrutura de rede em camadas.
 
 -----
+
+**[LibreWolf](https://snort.social/e/nevent1qqszv2lepkmxrjm8t9yjz7nrk2nfy4uk0expy4h37kucla07rdexgwsppemhxue69uhkummn9ekx7mp00e7y6d)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação LibreWolf é um navegador de código aberto baseado no Firefox que se destaca como uma das melhores opções de navegadores para desktop.
+
+----
 
 **[(IP2) The Invisible Internet Project](https://snort.social/e/nevent1qqsvnj8n983r4knwjmnkfyum242q4c0cnd338l4z8p0m6xsmx89mxksppemhxue69uhkummn9ekx7mp0qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsrn72tk)** (Conteúdo em Português)
 
@@ -88,18 +100,6 @@ Este artigo explora o conceito e a implementação F-Droid é uma plataforma de 
 Este artigo explora o conceito e a implementação Standard Notes é um aplicativo de gerenciamento de informações pessoais de código aberto, que utiliza criptografia de ponta a ponta para proteger seus dados de acesso não autorizado.
 
 -----
-
-**[BRIAR](https://snort.social/e/nevent1qqs8rrtgvjr499hreugetrl7adkhsj2zextyfsukq5aa7wxthrgcqcgppemhxue69uhkummn9ekx7mp0mwqkfr)** (Conteúdo em Português)
-
-Este artigo explora o conceito e a implementação Briar é um aplicativo de mensagens projetado para ativistas, jornalistas e qualquer pessoa que precise de uma maneira segura, fácil e robusta de se comunicar.
-
------
-
-**[LibreWolf](https://snort.social/e/nevent1qqszv2lepkmxrjm8t9yjz7nrk2nfy4uk0expy4h37kucla07rdexgwsppemhxue69uhkummn9ekx7mp00e7y6d)** (Conteúdo em Português)
-
-Este artigo explora o conceito e a implementação LibreWolf é um navegador de código aberto baseado no Firefox que se destaca como uma das melhores opções de navegadores para desktop.
-
-----
 
 **[Nome do Artigo](https://www.link-do-artigo.com)** (Conteúdo em Língua do Artigo)
 
