@@ -83,6 +83,12 @@ Este artigo explora o conceito e a implementação LibreWolf é um navegador de 
 
 ----
 
+**[Tails : (The Amnesic Incognito Live System)](https://snort.social/e/nevent1qqs00eu43pkpj5la50hyd482frectpa4p5ysjhrm0ks0ss084lyxknscdvwz9)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Tails é um sistema operacional portátil baseado em Linux que pode ser iniciado a partir de um pen drive ou DVD. Ele é projetado para manter sua privacidade enquanto navega na internet, protegendo você de vigilância e censura. O Tails é gratuito e de código aberto, o que significa que qualquer pessoa pode usá-lo e modificá-lo.
+
+-----
+
 **[Searx](https://snort.social/e/nevent1qqsp5nqnq4v0f0t5tg3n9uutqnj4a023839x4352cjwyhe6mrdl729qpp2lht)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação Searx o buscador de código aberto que preserva a privacidade
@@ -94,6 +100,7 @@ Este artigo explora o conceito e a implementação Searx o buscador de código a
 Este artigo explora o conceito e a implementação I2P é uma rede anônima, oferecendo uma camada simples que aplicativos sensíveis à identidade podem usar para se comunicar com segurança. Todos os dados são agrupados com várias camadas de criptografia e a rede é distribuída e dinâmica, sem partes confiáveis.
 
 -----
+
 
 **[F-Droid](https://snort.social/e/nevent1qqst4kry49cc9g3g8s5gdnpgyk3gjte079jdnv43f0x4e85cjkxzjesppemhxue69uhkummn9ekx7mp04lgmk4)** (Conteúdo em Português)
 
