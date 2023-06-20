@@ -40,6 +40,12 @@ Este artigo explora o conceito e a implementação ProtonMail é um serviço de
 
 -----
 
+**[SimpleLogin](https://snort.social/e/nevent1qqspvuctss9h8tmm3jpcv06j2r37c60rzzvjp56yfr89p9ds9utz2gsppemhxue69uhkummn9ekx7mp04qkh55)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Simplelogin é uma ferramenta de privacidade e segurança que permite criar e gerenciar endereços de email descartáveis e aliases. Em vez de compartilhar seu endereço de email real com serviços e sites que você usa, você pode criar um endereço de email temporário usando o Simplelogin. Esse endereço temporário é exclusivo para cada serviço ou site, permitindo que você gerencie sua caixa de entrada e reduza a quantidade de spam e emails não solicitados que você recebe.
+
+-----
+
 **[SimpleXchat](https://snort.social/e/nevent1qqsxkgdjp0dhzf3pukuf8xwl5rtx5lgwuftfk7w835uvy9xqrq6s84cppemhxue69uhkummn9ekx7mp07pm3qm)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação SimpleXchat mensageiro revolucionárias que redefinem a privacidade, sendo o primeiro sem IDs de usuário. Por design, é 100% privado e seguro, garantindo que suas mensagens nunca sejam rastreadas ou armazenadas.
