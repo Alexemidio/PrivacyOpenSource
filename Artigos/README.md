@@ -101,6 +101,12 @@ Este artigo explora o conceito e a implementação Whonix é um sistema operacio
 
 -----
 
+**[Qubes OS](https://snort.social/e/nevent1qqsp6jujgwl68uvurw0cw3hfhr40xq20sj7rl3z4yzwnhp9sdpa7aughn7qum)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Qubes OS é um sistema operacional de código aberto que foi projetado com o objetivo de fornecer um ambiente de computação seguro e confiável. Ele usa uma abordagem única de virtualização baseada em compartimentos para isolar diferentes aplicativos e atividades em máquinas virtuais independentes. Isso significa que cada atividade, desde navegar na web , é isolada em seu próprio compartimento virtual, fornecendo um ambiente altamente seguro.
+
+-----
+
 **[(IP2) The Invisible Internet Project](https://snort.social/e/nevent1qqsvnj8n983r4knwjmnkfyum242q4c0cnd338l4z8p0m6xsmx89mxksppemhxue69uhkummn9ekx7mp0qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsrn72tk)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação I2P é uma rede anônima, oferecendo uma camada simples que aplicativos sensíveis à identidade podem usar para se comunicar com segurança. Todos os dados são agrupados com várias camadas de criptografia e a rede é distribuída e dinâmica, sem partes confiáveis.
