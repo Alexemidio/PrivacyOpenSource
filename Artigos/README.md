@@ -34,6 +34,12 @@ Este artigo explora o conceito e a implementação ProtonMail é um serviço de
 
 -----
 
+**[SimpleXchat](https://snort.social/e/nevent1qqsxkgdjp0dhzf3pukuf8xwl5rtx5lgwuftfk7w835uvy9xqrq6s84cppemhxue69uhkummn9ekx7mp07pm3qm)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação SimpleXchat mensageiro revolucionárias que redefinem a privacidade, sendo o primeiro sem IDs de usuário. Por design, é 100% privado e seguro, garantindo que suas mensagens nunca sejam rastreadas ou armazenadas.
+
+-----
+
 **[Nome do Artigo](https://www.link-do-artigo.com)** (Conteúdo em Língua do Artigo)
 
 Mussum Ipsum, cacilds vidis litro abertis. Aenean aliquam molestie leo, vitae iaculis nisl.Sapien in monti palavris qui num significa nadis i pareci latim.Casamentiss faiz malandris se pirulitá.Mé faiz elementum girarzis, nisi eros vermeio.
