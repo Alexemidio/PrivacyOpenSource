@@ -46,6 +46,12 @@ Este artigo explora o conceito e a implementação Navegador Tor é um software 
 
 -----
 
+**[(IP2) The Invisible Internet Project](https://snort.social/e/nevent1qqsvnj8n983r4knwjmnkfyum242q4c0cnd338l4z8p0m6xsmx89mxksppemhxue69uhkummn9ekx7mp0qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsrn72tk)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação I2P é uma rede anônima, oferecendo uma camada simples que aplicativos sensíveis à identidade podem usar para se comunicar com segurança. Todos os dados são agrupados com várias camadas de criptografia e a rede é distribuída e dinâmica, sem partes confiáveis.
+
+-----
+
 **[Nome do Artigo](https://www.link-do-artigo.com)** (Conteúdo em Língua do Artigo)
 
 Mussum Ipsum, cacilds vidis litro abertis. Aenean aliquam molestie leo, vitae iaculis nisl.Sapien in monti palavris qui num significa nadis i pareci latim.Casamentiss faiz malandris se pirulitá.Mé faiz elementum girarzis, nisi eros vermeio.
