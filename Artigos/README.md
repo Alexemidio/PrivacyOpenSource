@@ -107,6 +107,12 @@ Este artigo explora o conceito e a implementação Searx o buscador de código a
 
 -----
 
+**[Snowflake](https://snort.social/e/nevent1qqs0ws74zlt8uced3p2vee9td8x7vln2mkacp8szdufvs2ed94ctnwchce008)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Snowflake é um projeto de código aberto desenvolvido pelo Tor Project para ajudar a contornar a censura da Internet em locais onde o acesso ao Tor é bloqueado. Ele é uma espécie de ponte do Tor que permite que os usuários se conectem à rede Tor por meio de um sistema distribuído de voluntários.
+
+-----
+
 **[Tails : (The Amnesic Incognito Live System)](https://snort.social/e/nevent1qqs00eu43pkpj5la50hyd482frectpa4p5ysjhrm0ks0ss084lyxknscdvwz9)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação Tails é um sistema operacional portátil baseado em Linux que pode ser iniciado a partir de um pen drive ou DVD. Ele é projetado para manter sua privacidade enquanto navega na internet, protegendo você de vigilância e censura. O Tails é gratuito e de código aberto, o que significa que qualquer pessoa pode usá-lo e modificá-lo.
