@@ -107,6 +107,12 @@ Este artigo explora o conceito e a implementação Qubes OS é um sistema operac
 
 -----
 
+**[KODACHI](https://snort.social/e/nevent1qqsf5zszgurpd0vwdznzk98hck294zygw0s8dah6fpd309ecpreqtrgprfmhxue69uhkummnw3ezucm9wf3kzarjdamxztndv5hsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqse60m2x)** (Conteúdo em Português)
+
+Este artigo explora O sistema operacional Linux Kodachi é baseado no Ubuntu 18.04.5 LTS, ele fornecerá a você um sistema operacional seguro, anti-forense e anônimo, considerando todos os recursos que uma pessoa preocupada com a privacidade precisa ter para estar segura.
+
+-----
+
 **[(IP2) The Invisible Internet Project](https://snort.social/e/nevent1qqsvnj8n983r4knwjmnkfyum242q4c0cnd338l4z8p0m6xsmx89mxksppemhxue69uhkummn9ekx7mp0qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsrn72tk)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação I2P é uma rede anônima, oferecendo uma camada simples que aplicativos sensíveis à identidade podem usar para se comunicar com segurança. Todos os dados são agrupados com várias camadas de criptografia e a rede é distribuída e dinâmica, sem partes confiáveis.
