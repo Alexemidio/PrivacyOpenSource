@@ -113,6 +113,12 @@ Este artigo explora o conceito e a implementação Snowflake é um projeto de c�
 
 -----
 
+[GrapheneOS](https://snort.social/e/nevent1qqsdjtl7p6kanzgj9lguq2hd3042syg0yasxasvugffdxgdf9up8grspz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqse8fe3c)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação GrapheneOS é um sistema operacional móvel baseado no Android Open Source Project (AOSP) desenvolvido com o objetivo de aprimorar a segurança e a privacidade, mantendo a usabilidade e compatibilidade dos aplicativos.
+
+-----
+
 **[Tails : (The Amnesic Incognito Live System)](https://snort.social/e/nevent1qqs00eu43pkpj5la50hyd482frectpa4p5ysjhrm0ks0ss084lyxknscdvwz9)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação Tails é um sistema operacional portátil baseado em Linux que pode ser iniciado a partir de um pen drive ou DVD. Ele é projetado para manter sua privacidade enquanto navega na internet, protegendo você de vigilância e censura. O Tails é gratuito e de código aberto, o que significa que qualquer pessoa pode usá-lo e modificá-lo.
