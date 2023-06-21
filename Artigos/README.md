@@ -167,6 +167,12 @@ Este artigo explora o conceito e a implementação uBlock Origin é uma extensã
 
 -----
 
+**[VLC (Video LAN  Client)](https://snort.social/e/nevent1qqs0lz56wtlr2eye4ajs2gzn2r0dscw4y66wezhx0mue6dffth8zugcl9laky)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação VLC é um software de código aberto gratuito que permite aos usuários reproduzir diversos tipos de mídia, incluindo vídeos, música e podcasts, em vários sistemas operacionais, incluindo Windows, Android ,  MacOS e Linux.
+
+-----
+
 **[Nome do Artigo](https://www.link-do-artigo.com)** (Conteúdo em Língua do Artigo)
 
 Mussum Ipsum, cacilds vidis litro abertis. Aenean aliquam molestie leo, vitae iaculis nisl.Sapien in monti palavris qui num significa nadis i pareci latim.Casamentiss faiz malandris se pirulitá.Mé faiz elementum girarzis, nisi eros vermeio.
