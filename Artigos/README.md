@@ -179,6 +179,11 @@ Este artigo explora o conceito e a implementação VLC é um software de código
 
 -----
 
+**[NewPipe](https://snort.social/e/nevent1qqsdg06qpcjdnlvgm4xzqdap0dgjrkjewhmh4j3v4mxdl4rjh8768mgdw9uln)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação NewPipe é um aplicativo de código aberto para dispositivos Android que permite aos usuários acessar o conteúdo do YouTube de forma mais privada, segura e personalizada. Ele oferece recursos adicionais em relação ao aplicativo oficial do YouTube, como a possibilidade de assistir vídeos sem anúncios, reproduzir em segundo plano, baixar vídeos e áudios, entre outros.
+
+-----
 
 **[Nome do Artigo](https://www.link-do-artigo.com)** (Conteúdo em Língua do Artigo)
 
