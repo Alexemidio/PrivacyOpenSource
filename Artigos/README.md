@@ -53,6 +53,12 @@ Este artigo explora o conceito e a implementação ProtonMail é um serviço de
 
 -----
 
+**[Tutanota](https://snort.social/e/nevent1qqswtzh9zjxfey644qy4jsdh9465qcqd2wefx0jxa54gdckxjvkrrmqpz4mhxue69uhhyetvv9ujumt0wd68ytnsw43qygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqs5hzhkv)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Tutanota é um provedor de serviços de e-mail que se diferencia pela ênfase na privacidade e segurança dos usuários. Seu nome é uma combinação das palavras "tutan," que significa "mensagem" em egípcio antigo, e "nota," que é uma referência a "anotação" em latim. O objetivo principal do Tutanota é oferecer um serviço de e-mail protegido, onde as mensagens são criptografadas de ponta a ponta.
+
+-----
+
 **[SimpleLogin](https://snort.social/e/nevent1qqspvuctss9h8tmm3jpcv06j2r37c60rzzvjp56yfr89p9ds9utz2gsppemhxue69uhkummn9ekx7mp04qkh55)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação Simplelogin é uma ferramenta de privacidade e segurança que permite criar e gerenciar endereços de email descartáveis e aliases. Em vez de compartilhar seu endereço de email real com serviços e sites que você usa, você pode criar um endereço de email temporário usando o Simplelogin. Esse endereço temporário é exclusivo para cada serviço ou site, permitindo que você gerencie sua caixa de entrada e reduza a quantidade de spam e emails não solicitados que você recebe.
