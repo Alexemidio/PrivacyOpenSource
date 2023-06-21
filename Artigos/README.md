@@ -132,6 +132,12 @@ Este artigo explora o conceito e a implementação Standard Notes é um aplicati
 
 -----
 
+**[uBlock Origin](https://snort.social/e/nevent1qqswaa666lcj2c4nhnea8u4agjtu4l8q89xjln0yrngj7ssh72ntwzql8ssdj)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação uBlock Origin é uma extensão para navegadores que bloqueia anúncios e outros conteúdos indesejados em páginas da web.
+
+-----
+
 **[Nome do Artigo](https://www.link-do-artigo.com)** (Conteúdo em Língua do Artigo)
 
 Mussum Ipsum, cacilds vidis litro abertis. Aenean aliquam molestie leo, vitae iaculis nisl.Sapien in monti palavris qui num significa nadis i pareci latim.Casamentiss faiz malandris se pirulitá.Mé faiz elementum girarzis, nisi eros vermeio.
