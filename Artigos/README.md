@@ -144,6 +144,12 @@ Este artigo explora o conceito e a implementação F-Droid é uma plataforma de 
 
 -----
 
+**[Nextcloud](https://snort.social/e/nevent1qqs2utg5z9htegdtrnllreuhypkk2026x8a0xdsmfczg9wdl8rgrcgg9nhgnm)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Nextcloud é uma plataforma de colaboração em nuvem que permite armazenar, sincronizar e compartilhar arquivos, contatos, calendários e outras informações.
+
+-----
+
 **[Standard Notes](https://snort.social/e/nevent1qqsv3596kz3qung5v23cjc4cpq7rqxg08y36rmzgcrvw5whtme83y3sppemhxue69uhkummn9ekx7mp0jzy57r)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação Standard Notes é um aplicativo de gerenciamento de informações pessoais de código aberto, que utiliza criptografia de ponta a ponta para proteger seus dados de acesso não autorizado.
