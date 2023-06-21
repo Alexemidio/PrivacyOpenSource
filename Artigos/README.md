@@ -71,7 +71,7 @@ Este artigo explora o conceito e a implementação SimpleXchat mensageiro revolu
 
 -----
 
-**[BRIAR](https://snort.social/e/nevent1qqs8rrtgvjr499hreugetrl7adkhsj2zextyfsukq5aa7wxthrgcqcgppemhxue69uhkummn9ekx7mp0mwqkfr)** (Conteúdo em Português)
+**[Briar](https://snort.social/e/nevent1qqs8rrtgvjr499hreugetrl7adkhsj2zextyfsukq5aa7wxthrgcqcgppemhxue69uhkummn9ekx7mp0mwqkfr)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação Briar é um aplicativo de mensagens projetado para ativistas, jornalistas e qualquer pessoa que precise de uma maneira segura, fácil e robusta de se comunicar.
 
@@ -119,9 +119,15 @@ Este artigo explora o conceito e a implementação Qubes OS é um sistema operac
 
 -----
 
-**[KODACHI](https://snort.social/e/nevent1qqsf5zszgurpd0vwdznzk98hck294zygw0s8dah6fpd309ecpreqtrgprfmhxue69uhkummnw3ezucm9wf3kzarjdamxztndv5hsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqse60m2x)** (Conteúdo em Português)
+**[Kodachi](https://snort.social/e/nevent1qqsf5zszgurpd0vwdznzk98hck294zygw0s8dah6fpd309ecpreqtrgprfmhxue69uhkummnw3ezucm9wf3kzarjdamxztndv5hsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqse60m2x)** (Conteúdo em Português)
 
 Este artigo explora O sistema operacional Linux Kodachi é baseado no Ubuntu 18.04.5 LTS, ele fornecerá a você um sistema operacional seguro, anti-forense e anônimo, considerando todos os recursos que uma pessoa preocupada com a privacidade precisa ter para estar segura.
+
+-----
+
+**[VeraCrypt](https://snort.social/e/nevent1qqsf6wzedsnrgq6hjk5c4jj66dxnplqwc4ygr46l8z3gfh38q2fdlwgm65ej3)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação VeraCrypt é um software de criptografia de disco completo, que permite criar e gerenciar volumes criptografados em seu computador ou dispositivo de armazenamento externo.
 
 -----
 
