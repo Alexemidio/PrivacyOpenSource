@@ -185,6 +185,12 @@ Este artigo explora o conceito e a implementação NewPipe é um aplicativo de c
 
 -----
 
+**[Antennapod](https://snort.social/e/nevent1qqsp4nh7k4a6zymfwqqdlxuz8ua6kdhvgeeh3uxf2c9rtp9u3e9ku8qnr8lmy)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação AntennaPod é um aplicativo de podcast de código aberto para dispositivos Android. Ele permite que os usuários descubram, assinem e ouçam podcasts de uma ampla variedade de fontes. O aplicativo é desenvolvido por uma comunidade de colaboradores e segue os princípios de código aberto, o que significa que o código-fonte do aplicativo é acessível e pode ser modificado por qualquer pessoa interessada em contribuir para o projeto.
+
+-----
+
 **[Nome do Artigo](https://www.link-do-artigo.com)** (Conteúdo em Língua do Artigo)
 
 Mussum Ipsum, cacilds vidis litro abertis. Aenean aliquam molestie leo, vitae iaculis nisl.Sapien in monti palavris qui num significa nadis i pareci latim.Casamentiss faiz malandris se pirulitá.Mé faiz elementum girarzis, nisi eros vermeio.
