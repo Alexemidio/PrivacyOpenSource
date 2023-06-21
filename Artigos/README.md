@@ -119,6 +119,12 @@ Este artigo explora o conceito e a implementação GrapheneOS é um sistema oper
 
 -----
 
+**[CalyxOS](https://snort.social/e/nevent1qqsrm0lws2atln2kt3cqjacathnw0uj0jsxwklt37p7t380hl8mmstcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqsg3laqz)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação CalyxOS é um sistema operacional para smartphones Android projetado com foco na privacidade e segurança dos usuários. Ele oferece uma experiência de uso diário que coloca o controle sobre os dados pessoais nas mãos dos usuários. Uma das principais características do CalyxOS é sua abordagem proativa em relação à segurança, fornecendo recomendações e atualizações automáticas que simplificam o processo de proteção dos dados pessoais.
+
+-----
+
 **[Tails : (The Amnesic Incognito Live System)](https://snort.social/e/nevent1qqs00eu43pkpj5la50hyd482frectpa4p5ysjhrm0ks0ss084lyxknscdvwz9)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação Tails é um sistema operacional portátil baseado em Linux que pode ser iniciado a partir de um pen drive ou DVD. Ele é projetado para manter sua privacidade enquanto navega na internet, protegendo você de vigilância e censura. O Tails é gratuito e de código aberto, o que significa que qualquer pessoa pode usá-lo e modificá-lo.
