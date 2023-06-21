@@ -125,6 +125,12 @@ Este artigo explora O sistema operacional Linux Kodachi é baseado no Ubuntu 18.
 
 -----
 
+**[OnionShare](https://snort.social/e/nevent1qqsr0a4ml5nu6ud5k9yzyawcd9arznnwkrc27dzzc95q6r50xmdff6qve6lw0)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação OnionShare é uma ferramenta de software criada para permitir o compartilhamento seguro e anônimo de arquivos pela rede Tor. Desenvolvido pelo Tor Project, o OnionShare é um projeto de código aberto que visa proteger a privacidade dos usuários durante o compartilhamento de arquivos.
+
+----
+
 **[VeraCrypt](https://snort.social/e/nevent1qqsf6wzedsnrgq6hjk5c4jj66dxnplqwc4ygr46l8z3gfh38q2fdlwgm65ej3)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação VeraCrypt é um software de criptografia de disco completo, que permite criar e gerenciar volumes criptografados em seu computador ou dispositivo de armazenamento externo.
@@ -136,7 +142,6 @@ Este artigo explora o conceito e a implementação VeraCrypt é um software de c
 Este artigo explora o conceito e a implementação I2P é uma rede anônima, oferecendo uma camada simples que aplicativos sensíveis à identidade podem usar para se comunicar com segurança. Todos os dados são agrupados com várias camadas de criptografia e a rede é distribuída e dinâmica, sem partes confiáveis.
 
 -----
-
 
 **[F-Droid](https://snort.social/e/nevent1qqst4kry49cc9g3g8s5gdnpgyk3gjte079jdnv43f0x4e85cjkxzjesppemhxue69uhkummn9ekx7mp04lgmk4)** (Conteúdo em Português)
 
