@@ -59,6 +59,12 @@ Este artigo explora o conceito e a implementação Simplelogin é uma ferramenta
 
 -----
 
+**[Thunderbird](https://snort.social/e/nevent1qqspq64gg0nw7t60zsvea5eykgrm43paz845e4jn74muw5qzdvve7uqrkwtjh)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Thunderbird é um software cliente de email de código aberto desenvolvido pela Mozilla Foundation, disponível gratuitamente em diferentes sistemas operacionais, incluindo Windows, macOS e Linux. É uma opção popular para aqueles que buscam uma alternativa confiável e segura ao cliente de email padrão do sistema operacional.
+
+-----
+
 **[SimpleXchat](https://snort.social/e/nevent1qqsxkgdjp0dhzf3pukuf8xwl5rtx5lgwuftfk7w835uvy9xqrq6s84cppemhxue69uhkummn9ekx7mp07pm3qm)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação SimpleXchat mensageiro revolucionárias que redefinem a privacidade, sendo o primeiro sem IDs de usuário. Por design, é 100% privado e seguro, garantindo que suas mensagens nunca sejam rastreadas ou armazenadas.
