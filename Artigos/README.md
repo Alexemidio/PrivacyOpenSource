@@ -41,6 +41,12 @@ Este artigo explora o conceito e a implementação KeepassDX é um aplicativo de
 
 -----
 
+**[KeepassXC](https://snort.social/e/nevent1qqsgftcrd8eau7tzr2p9lecuaf7z8mx5jl9w2k66ae3lzkw5wqcy5pcl2achp)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação KeePassXC é um gerenciador de senhas de código aberto que oferece uma forma segura e conveniente de armazenar e gerenciar suas senhas.
+
+-----
+
 **[ProtonMail](https://snort.social/e/nevent1qqsxkgdjp0dhzf3pukuf8xwl5rtx5lgwuftfk7w835uvy9xqrq6s84cppemhxue69uhkummn9ekx7mp07pm3qm)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação ProtonMail é um serviço de e-mail seguro e criptografado, focado em fornecer privacidade e segurança para os usuários. O ProtonMail utiliza criptografia de ponta a ponta para proteger as mensagens e os anexos, garantindo que apenas o remetente e o destinatário tenham acesso ao conteúdo.
