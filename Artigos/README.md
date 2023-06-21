@@ -161,6 +161,12 @@ Este artigo explora o conceito e a implementação Standard Notes é um aplicati
 
 -----
 
+**[Jitsi meet](https://snort.social/e/nevent1qqswphw67hr6qmt2fpugcj77jrk7qkfdrszum7vw7n2cu6cx4r6sh4cgkderr)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Jitsi é uma aplicação de código aberto multiplataforma para voz, videoconferência e mensagens instantâneas. Com suporte para vários protocolos populares de mensageiros instantâneos e telefonia, ele oferece versões para GNU/Linux, Windows, Mac OS X e Android, incluindo clientes web, Android e iOS.
+
+-----
+
 **[uBlock Origin](https://snort.social/e/nevent1qqswaa666lcj2c4nhnea8u4agjtu4l8q89xjln0yrngj7ssh72ntwzql8ssdj)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação uBlock Origin é uma extensão para navegadores que bloqueia anúncios e outros conteúdos indesejados em páginas da web.
@@ -172,6 +178,7 @@ Este artigo explora o conceito e a implementação uBlock Origin é uma extensã
 Este artigo explora o conceito e a implementação VLC é um software de código aberto gratuito que permite aos usuários reproduzir diversos tipos de mídia, incluindo vídeos, música e podcasts, em vários sistemas operacionais, incluindo Windows, Android ,  MacOS e Linux.
 
 -----
+
 
 **[Nome do Artigo](https://www.link-do-artigo.com)** (Conteúdo em Língua do Artigo)
 
