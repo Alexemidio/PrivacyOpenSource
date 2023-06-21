@@ -77,6 +77,12 @@ Este artigo explora o conceito e a implementação Briar é um aplicativo de men
 
 -----
 
+**[Pidgin](https://snort.social/e/nevent1qqsz7kngycyx7meckx53xk8ahk98jkh400usrvykh480xa4ct9zlx2c2ywvx3)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Pidgin é um cliente de mensagens instantâneas de código aberto que suporta diversos protocolos de comunicação, incluindo XMPP/Jabber, AIM, ICQ, IRC e muitos outros. Com o Pidgin, os usuários podem se conectar e se comunicar com pessoas em diferentes redes e serviços de mensagens instantâneas através de uma única interface.
+
+-----
+
 **[Element Messenger](https://snort.social/e/nevent1qqsq05snlqtxm5cpzkshlf8n5d5rj9383vjytkvqp5gta37hpuwt4mqppemhxue69uhkummn9ekx7mp0e4anpa)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação Element Messenger é um aplicativo de chat criptografado de ponta a ponta baseado na tecnologia Matrix, que permite que os usuários se comuniquem de forma segura e privada.
