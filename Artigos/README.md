@@ -203,6 +203,12 @@ Este artigo explora o conceito e a implementação uBlock Origin é uma extensã
 
 -----
 
+**[Feeder](https://snort.social/e/nevent1qqsy29aeggpkmrc7t3c7y7ldgda7pszl7c8hh9zux80gjzrfvlhfhwqpz4mhxue69uhhyetvv9ujumt0wd68ytnsw43qygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqs3d0y6n)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Feeder é um aplicativo de leitor de RSS de código aberto que permite que você acompanhe e leia suas fontes de notícias favoritas em um só lugar. Com recursos avançados e uma interface intuitiva, o Feeder simplifica a forma como você se mantém informado sobre os conteúdos mais recentes. Vamos explorar em detalhes como o Feeder funciona, seus recursos e os problemas comuns que ele resolve.
+
+-----
+
 **[VLC (Video LAN  Client)](https://snort.social/e/nevent1qqs0lz56wtlr2eye4ajs2gzn2r0dscw4y66wezhx0mue6dffth8zugcl9laky)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação VLC é um software de código aberto gratuito que permite aos usuários reproduzir diversos tipos de mídia, incluindo vídeos, música e podcasts, em vários sistemas operacionais, incluindo Windows, Android ,  MacOS e Linux.
