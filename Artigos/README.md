@@ -221,6 +221,12 @@ Este artigo explora o conceito e a implementação NewPipe é um aplicativo de c
 
 -----
 
+**[Libre Tube](https://snort.social/e/nevent1qqstmd5m6wrdvn4gxf8xyhrwnlyaxmr89c9kjddvnvux6603f84t3fqpz4mhxue69uhhyetvv9ujumt0wd68ytnsw43qygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqsswwznc)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação LibreTube é um aplicativo de código aberto que oferece uma alternativa livre, segura e personalizada para a visualização de vídeos online. Desenvolvido como uma alternativa ao aplicativo oficial do YouTube, o LibreTube permite aos usuários acessar conteúdo de vídeo de forma mais privada, sem anúncios indesejados e com recursos adicionais para uma experiência de visualização aprimorada.
+
+-----
+
 **[Antennapod](https://snort.social/e/nevent1qqsp4nh7k4a6zymfwqqdlxuz8ua6kdhvgeeh3uxf2c9rtp9u3e9ku8qnr8lmy)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação AntennaPod é um aplicativo de podcast de código aberto para dispositivos Android. Ele permite que os usuários descubram, assinem e ouçam podcasts de uma ampla variedade de fontes. O aplicativo é desenvolvido por uma comunidade de colaboradores e segue os princípios de código aberto, o que significa que o código-fonte do aplicativo é acessível e pode ser modificado por qualquer pessoa interessada em contribuir para o projeto.
