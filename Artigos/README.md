@@ -107,6 +107,12 @@ Este artigo explora o conceito e a implementação LibreWolf é um navegador de 
 
 ----
 
+**[Mullvap Browser ]https://snort.social/e/nevent1qqs8vveeupvjkekhwxlfsjr8l0ns7snc48g0s4mrdzpcg74caqh4ufspzpmhxue69uhkumewwd68ytnrwghsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqshllatz)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Mullvad Browser é um navegador da web desenvolvido em colaboração entre o Mullvad VPN e o Projeto Tor, com foco na privacidade. Ele foi projetado para minimizar o rastreamento e a impressão digital, oferecendo uma alternativa para navegar na internet com mais privacidade, além da Rede Tor. O navegador possui a mesma qualidade de privacidade do Tor Browser e pode ser usado em conjunto com uma VPN confiável.
+
+-----
+
 **[Searx](https://snort.social/e/nevent1qqsp5nqnq4v0f0t5tg3n9uutqnj4a023839x4352cjwyhe6mrdl729qpp2lht)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação Searx o buscador de código aberto que preserva a privacidade.
