@@ -13,3 +13,11 @@ Open Source Encontre o projeto de código aberto certo para resolver seus proble
 **[Stacker News ](https://stacker.news/)** 
 
 É como o Hacker News, mas nós pagamos a você Bitcoin
+
+-----
+
+**[Schneier ](https://www.schneier.com/)** 
+
+Schneier encontra informações sobre segurança da informação, com artigos, ensaios, palestras e entrevistas abordando diversos tópicos relacionados à segurança cibernética, privacidade, criptografia e tecnologia.
+
+-----
