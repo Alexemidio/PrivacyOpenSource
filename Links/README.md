@@ -30,6 +30,12 @@ Pagamento Via Ligthning network.
 
 -----
 
+**[ KycNot.me ](https://kycnot.me/services)**
+
+vários serviços NOkyc exemplos: Serviços VPN , Domínios, Hospedagem e VPS , Números de telefone , SMS , Vales-presente , mercadorias ,Várias ferramentas , anonimização , Armazenamento na núvem , Outros serviços Com Pagamentos Via Bitcoin e Ligthning network.
+
+-----
+
 **[Schneier ](https://www.schneier.com/)** 
 
 Schneier encontra informações sobre segurança da informação, com artigos, ensaios, palestras e entrevistas abordando diversos tópicos relacionados à segurança cibernética, privacidade, criptografia e tecnologia.
