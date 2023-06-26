@@ -16,6 +16,20 @@ Open Source Encontre o projeto de código aberto certo para resolver seus proble
 
 -----
 
+**[ Silent ](https://silent.link/)**
+
+Compra chip NOkyc Pagamento via Bitcoin e Ligthning network.
+
+-----
+
+**[ Sms4sats ](https://sms4sats.com/)**
+
+
+Envie e receba SMS sem revelar o seu número de telefone.
+Pagamento Via Ligthning network.
+
+-----
+
 **[Schneier ](https://www.schneier.com/)** 
 
 Schneier encontra informações sobre segurança da informação, com artigos, ensaios, palestras e entrevistas abordando diversos tópicos relacionados à segurança cibernética, privacidade, criptografia e tecnologia.
