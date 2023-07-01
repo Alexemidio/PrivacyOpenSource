@@ -22320,5 +22320,6 @@ versões.
 
 20.8. Eu decidi lançar este antes da RSA patentes correr para fora...
 
+https://nakamotoinstitute.org/static/docs/cyphernomicon.txt
 
 
