@@ -40,7 +40,8 @@ Este artigo explora o conceito e a implementação Qubes OS é um sistema operac
 
 **[Kali](https://snort.social/e/nevent1qqswlav72xdvamuyp9xc38c6t7070l3n2uxu67ssmal2g7gv35nmvhspzpmhxue69uhkumewwd68ytnrwghsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqswt9rxe)** (Conteúdo em Português)
 
-Este artigo explora O Kali Linux é uma distribuição muito popular entre estudantes e profissionais de segurança da informação por possuir diversas ferramentas e aplicações nativas especializadas em testes de invasão, penetração (pentest), forense dentre outras áreas.
+Este artigo explora O sistema operacional Kali Linux é uma distribuição muito popular entre estudantes e profissionais de segurança da informação por possuir diversas ferramentas e aplicações nativas especializadas em testes de invasão, penetração (pentest), forense dentre outras áreas.
+
 ------
 
 **[Kodachi](https://snort.social/e/nevent1qqsf5zszgurpd0vwdznzk98hck294zygw0s8dah6fpd309ecpreqtrgprfmhxue69uhkummnw3ezucm9wf3kzarjdamxztndv5hsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqse60m2x)** (Conteúdo em Português)
