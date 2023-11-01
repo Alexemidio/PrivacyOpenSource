@@ -1,3 +1,23 @@
+• SISTEMA OPERACIONAL MÓVEIS
+
+**[GrapheneOS](https://snort.social/e/nevent1qqsdjtl7p6kanzgj9lguq2hd3042syg0yasxasvugffdxgdf9up8grspz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqse8fe3c)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação GrapheneOS é um sistema operacional móvel baseado no Android Open Source Project (AOSP) desenvolvido com o objetivo de aprimorar a segurança e a privacidade, mantendo a usabilidade e compatibilidade dos aplicativos.
+
+-----
+
+**[CalyxOS](https://snort.social/e/nevent1qqsrm0lws2atln2kt3cqjacathnw0uj0jsxwklt37p7t380hl8mmstcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqsg3laqz)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação CalyxOS é um sistema operacional para smartphones Android projetado com foco na privacidade e segurança dos usuários. Ele oferece uma experiência de uso diário que coloca o controle sobre os dados pessoais nas mãos dos usuários. Uma das principais características do CalyxOS é sua abordagem proativa em relação à segurança, fornecendo recomendações e atualizações automáticas que simplificam o processo de proteção dos dados pessoais.
+
+-----
+
+**[LineageOS](https://snort.social/e/nevent1qqs9mgwz4uwyxvr9a0n68zfu0zkaamgx983ecd6xt4nx66f2dhxt7gqpr3mhxue69uhkummnw3ezucnfw33k76twv4ezuum0vd5kzmqzyp9636rd9ktcjmwfxd7ru5qxjxyn6uch2uhas8utg8wa5hvf6vk7gqcyqqqqqqgr3geq9)** (Conteúdo em Português) 
+
+Este artigo explora o conceito e a implementação LineageOS é um sistema operacional de código aberto baseado no Android " puro " que oferece uma alternativa personalizável e segura para dispositivos Android. Ele se concentra em fornecer uma experiência de usuário aprimorada, mantendo a liberdade e o controle do usuário sobre seu dispositivo.
+
+-----
+
 **[PGP (Pretty Good Privacy)](https://snort.social/e/nevent1qqsv5r4pjpafry0s47c7pde2dz6sl7cmag6t3ukkkhjrylrg2kntgmqppemhxue69uhkummn9ekx7mp0qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsxqltex)** (Conteúdo em Português)
 
 Este artigo exploramos o conceito e a implementação do PGP, um sistema de criptografia de dados amplamente utilizado para proteger a privacidade e a segurança das comunicações digitais.
@@ -122,18 +142,6 @@ Este artigo explora o conceito e a implementação Searx o buscador de código a
 **[Snowflake](https://snort.social/e/nevent1qqs0ws74zlt8uced3p2vee9td8x7vln2mkacp8szdufvs2ed94ctnwchce008)** (Conteúdo em Português)
 
 Este artigo explora o conceito e a implementação Snowflake é um projeto de código aberto desenvolvido pelo Tor Project para ajudar a contornar a censura da Internet em locais onde o acesso ao Tor é bloqueado. Ele é uma espécie de ponte do Tor que permite que os usuários se conectem à rede Tor por meio de um sistema distribuído de voluntários.
-
------
-
-**[GrapheneOS](https://snort.social/e/nevent1qqsdjtl7p6kanzgj9lguq2hd3042syg0yasxasvugffdxgdf9up8grspz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqse8fe3c)** (Conteúdo em Português)
-
-Este artigo explora o conceito e a implementação GrapheneOS é um sistema operacional móvel baseado no Android Open Source Project (AOSP) desenvolvido com o objetivo de aprimorar a segurança e a privacidade, mantendo a usabilidade e compatibilidade dos aplicativos.
-
------
-
-**[CalyxOS](https://snort.social/e/nevent1qqsrm0lws2atln2kt3cqjacathnw0uj0jsxwklt37p7t380hl8mmstcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqsg3laqz)** (Conteúdo em Português)
-
-Este artigo explora o conceito e a implementação CalyxOS é um sistema operacional para smartphones Android projetado com foco na privacidade e segurança dos usuários. Ele oferece uma experiência de uso diário que coloca o controle sobre os dados pessoais nas mãos dos usuários. Uma das principais características do CalyxOS é sua abordagem proativa em relação à segurança, fornecendo recomendações e atualizações automáticas que simplificam o processo de proteção dos dados pessoais.
 
 -----
 
