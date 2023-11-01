@@ -1,4 +1,4 @@
-• SISTEMA OPERACIONAL MÓVEIS
+• *SISTEMA OPERACIONAL MÓVEIS*
 
 **[GrapheneOS](https://snort.social/e/nevent1qqsdjtl7p6kanzgj9lguq2hd3042syg0yasxasvugffdxgdf9up8grspz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqse8fe3c)** (Conteúdo em Português)
 
@@ -18,9 +18,32 @@ Este artigo explora o conceito e a implementação LineageOS é um sistema opera
 
 -----
 
-**[PGP (Pretty Good Privacy)](https://snort.social/e/nevent1qqsv5r4pjpafry0s47c7pde2dz6sl7cmag6t3ukkkhjrylrg2kntgmqppemhxue69uhkummn9ekx7mp0qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsxqltex)** (Conteúdo em Português)
+• *SISTEMA OPERACIONAL DESKTOP*
 
-Este artigo exploramos o conceito e a implementação do PGP, um sistema de criptografia de dados amplamente utilizado para proteger a privacidade e a segurança das comunicações digitais.
+**[Tails : (The Amnesic Incognito Live System)](https://snort.social/e/nevent1qqs00eu43pkpj5la50hyd482frectpa4p5ysjhrm0ks0ss084lyxknscdvwz9)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Tails é um sistema operacional portátil baseado em Linux que pode ser iniciado a partir de um pen drive ou DVD. Ele é projetado para manter sua privacidade enquanto navega na internet, protegendo você de vigilância e censura. O Tails é gratuito e de código aberto, o que significa que qualquer pessoa pode usá-lo e modificá-lo.
+
+-----
+
+**[Whonix](https://snort.social/e/nevent1qqs85gvejvzhk086lwh6edma7fv07p5c3wnwnxnzthwwntg2x6773eg3z60dx)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Whonix é um sistema operacional de código aberto baseado em Debian Linux que fornece anonimato, privacidade e segurança ao navegar na internet.Ele é baseado no conceito de "separação de privilégios", o que significa que ele separa o sistema operacional em duas máquinas virtuais separadas, uma para o sistema operacional e outra para as aplicações. Isso permite que as aplicações rodem em um ambiente isolado e seguro, sem acesso direto à rede e aos recursos do sistema, protegendo assim a privacidade do usuário.
+
+-----
+
+**[Qubes OS](https://snort.social/e/nevent1qqsp6jujgwl68uvurw0cw3hfhr40xq20sj7rl3z4yzwnhp9sdpa7aughn7qum)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Qubes OS é um sistema operacional de código aberto que foi projetado com o objetivo de fornecer um ambiente de computação seguro e confiável. Ele usa uma abordagem única de virtualização baseada em compartimentos para isolar diferentes aplicativos e atividades em máquinas virtuais independentes. Isso significa que cada atividade, desde navegar na web , é isolada em seu próprio compartimento virtual, fornecendo um ambiente altamente seguro.
+
+-----
+
+**[Kodachi](https://snort.social/e/nevent1qqsf5zszgurpd0vwdznzk98hck294zygw0s8dah6fpd309ecpreqtrgprfmhxue69uhkummnw3ezucm9wf3kzarjdamxztndv5hsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqse60m2x)** (Conteúdo em Português)
+
+Este artigo explora O sistema operacional Linux Kodachi é baseado no Ubuntu 18.04.5 LTS, ele fornecerá a você um sistema operacional seguro, anti-forense e anônimo, considerando todos os recursos que uma pessoa preocupada com a privacidade precisa ter para estar segura.
+
+-----
+• *PGP*
 
 -----
 
@@ -145,27 +168,7 @@ Este artigo explora o conceito e a implementação Snowflake é um projeto de c�
 
 -----
 
-**[Tails : (The Amnesic Incognito Live System)](https://snort.social/e/nevent1qqs00eu43pkpj5la50hyd482frectpa4p5ysjhrm0ks0ss084lyxknscdvwz9)** (Conteúdo em Português)
 
-Este artigo explora o conceito e a implementação Tails é um sistema operacional portátil baseado em Linux que pode ser iniciado a partir de um pen drive ou DVD. Ele é projetado para manter sua privacidade enquanto navega na internet, protegendo você de vigilância e censura. O Tails é gratuito e de código aberto, o que significa que qualquer pessoa pode usá-lo e modificá-lo.
-
------
-
-**[Whonix](https://snort.social/e/nevent1qqs85gvejvzhk086lwh6edma7fv07p5c3wnwnxnzthwwntg2x6773eg3z60dx)** (Conteúdo em Português)
-
-Este artigo explora o conceito e a implementação Whonix é um sistema operacional de código aberto baseado em Debian Linux que fornece anonimato, privacidade e segurança ao navegar na internet.Ele é baseado no conceito de "separação de privilégios", o que significa que ele separa o sistema operacional em duas máquinas virtuais separadas, uma para o sistema operacional e outra para as aplicações. Isso permite que as aplicações rodem em um ambiente isolado e seguro, sem acesso direto à rede e aos recursos do sistema, protegendo assim a privacidade do usuário.
-
------
-
-**[Qubes OS](https://snort.social/e/nevent1qqsp6jujgwl68uvurw0cw3hfhr40xq20sj7rl3z4yzwnhp9sdpa7aughn7qum)** (Conteúdo em Português)
-
-Este artigo explora o conceito e a implementação Qubes OS é um sistema operacional de código aberto que foi projetado com o objetivo de fornecer um ambiente de computação seguro e confiável. Ele usa uma abordagem única de virtualização baseada em compartimentos para isolar diferentes aplicativos e atividades em máquinas virtuais independentes. Isso significa que cada atividade, desde navegar na web , é isolada em seu próprio compartimento virtual, fornecendo um ambiente altamente seguro.
-
------
-
-**[Kodachi](https://snort.social/e/nevent1qqsf5zszgurpd0vwdznzk98hck294zygw0s8dah6fpd309ecpreqtrgprfmhxue69uhkummnw3ezucm9wf3kzarjdamxztndv5hsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqse60m2x)** (Conteúdo em Português)
-
-Este artigo explora O sistema operacional Linux Kodachi é baseado no Ubuntu 18.04.5 LTS, ele fornecerá a você um sistema operacional seguro, anti-forense e anônimo, considerando todos os recursos que uma pessoa preocupada com a privacidade precisa ter para estar segura.
 
 -----
 
