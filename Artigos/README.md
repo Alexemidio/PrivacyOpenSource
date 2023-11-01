@@ -1,4 +1,4 @@
-• *SISTEMA OPERACIONAL MÓVEIS*
+• ***SISTEMA OPERACIONAL MÓVEIS***
 
 **[GrapheneOS](https://snort.social/e/nevent1qqsdjtl7p6kanzgj9lguq2hd3042syg0yasxasvugffdxgdf9up8grspz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqse8fe3c)** (Conteúdo em Português)
 
