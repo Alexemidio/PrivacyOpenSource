@@ -30,7 +30,7 @@ Pagamento Via Ligthning network.
 
 -----
 
-**[ KycNot.me ](https://kycnot.me/services)**
+**[ KycNot.me ](https://kycnot.me/)**
 
 vários serviços NOkyc exemplos: Serviços VPN , Domínios, Hospedagem e VPS , Números de telefone , SMS , Vales-presente , mercadorias ,Várias ferramentas , anonimização , Armazenamento na núvem , Outros serviços Com Pagamentos Via Bitcoin e Ligthning network.
 
