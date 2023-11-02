@@ -361,10 +361,48 @@ Este artigo explora o conceito e a implementação do LocalSend é um aplicativo
 
 • ***Wallet Bitcoin***
 
+**[Samourai wallet](https://snort.social/e/nevent1qqstcvjmz39rmrnrv7t5cl6p3x7pzj6jsspyh4s4vcwd2lugmre04ecpr9mhxue69uhkummnw3ezucn0denkymmwvuhxxmmd9upzqjagapkjm9ufdhynxlp72qrfrzfawvt4wt7cr795rhw6tkyaxt0yqvzqqqqqqy3rg4qs)** (Conteúdo em Português)
 
+Este artigo explora Samourai wallet carteira de bitcoin de código aberto forjada à mão para manter suas transações privadas, sua identidade mascarada e seus fundos protegidos .
 
-**[Nome do Artigo](https://www.link-do-artigo.com)** (Conteúdo em Língua do Artigo)
+• ***CÂMERA***
 
-Mussum Ipsum, cacilds vidis litro abertis. Aenean aliquam molestie leo, vitae iaculis nisl.Sapien in monti palavris qui num significa nadis i pareci latim.Casamentiss faiz malandris se pirulitá.Mé faiz elementum girarzis, nisi eros vermeio.
+**[opencamera](https://snort.social/e/nevent1qqs25glp6dh0crrjutxrgdjlnx9gtqpjtrkg29hlf7382aeyjd77jlqpzpmhxue69uhkumewwd68ytnrwghsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqssxcvgc)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação do OpenCamera é um aplicativo de câmera de código aberto desenvolvido para oferecer uma alternativa poderosa e personalizável aos aplicativos de câmera pré-instalados nos dispositivos Android.
 
 -----
+
+• ***OFFICE***
+
+**[Collabora Office](https://snort.social/e/nevent1qqs8yn4ys6adpmeu3edmf580jhc3wluvlf823cc4ft4h0uqmfzdf99qpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqsj40uss)** (Conteúdo em Português)
+
+Este artigo explora o conceito e a implementação Collabora Office Uma Alternativa de Código Aberto para Android ao Pacote Office.
+O Collabora Office é uma suíte de escritório baseada em código aberto que oferece uma alternativa viável e de qualidade ao popular pacote Office da Microsoft. Desenvolvido pela Collabora, uma empresa líder em serviços de consultoria e desenvolvimento de software de código aberto, o Collabora Office oferece uma gama completa de aplicativos de produtividade para a plataforma Android, incluindo processador de texto, planilha, apresentação e muito mais.
+
+-----
+
+• ***TEXTOS***
+
+**[O manifesto de um Cypherpunk](https://snort.social/e/nevent1qqsd7hdlg6galn5mcuv3pm3ryfjxc4tkyph0cfqqe4du4dr4z8amqyspvemhxue69uhkv6tvw3jhytnwdaehgu3wwa5kuef0dec82c330g6x6dm8ddmxzdne0pnhverevdkxxdm6wqc8v735w3snquejvsuk56pcvuurxaesxd68qdtkv3nrx6m6v3ehsctwvym8q0mzwfhkzerrv9ehg0t5wf6k2q3qfw5wsmfdj7ykmjfn0sl9qp533y7hx96h9lvplz6pmhd9mzwn9hjqxpqqqqqqzal0efa)** (Conteúdo em Língua do Artigo)
+
+-----
+
+**[Por que eu escrevi PGP. - Philip Zimmermann](https://snort.social/e/nevent1qqsvysn94gm8prxn3jw04r0xwc6sngkskg756z48jsyrmqssvxtm7ncpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtchzxnad)** (Conteúdo em Língua do Artigo)
+
+-----
+
+**[Operations security ( OPSEC)](https://snort.social/e/nevent1qqsp323havh3y9nxzd4qmm60hw87tm9gjns0mtzg8y309uf9mv85cqcpvemhxue69uhkv6tvw3jhytnwdaehgu3wwa5kuef0dec82c330g6x6dm8ddmxzdne0pnhverevdkxxdm6wqc8v735w3snquejvsuk56pcvuurxaesxd68qdtkv3nrx6m6v3ehsctwvym8q0mzwfhkzerrv9ehg0t5wf6k2q3qfw5wsmfdj7ykmjfn0sl9qp533y7hx96h9lvplz6pmhd9mzwn9hjqxpqqqqqqz8ej9l7)** (Conteúdo em Língua do Artigo)
+
+-----
+
+**[O MANIFESTO CRIPTOANARQUISTA
+Timothy C. May – 1992.](https://snort.social/e/nevent1qqspp480wtyx2zhtwpu5gptrl8duv9rvq3mug85mp4d54qzywk3zq9gpvemhxue69uhkv6tvw3jhytnwdaehgu3wwa5kuef0dec82c330g6x6dm8ddmxzdne0pnhverevdkxxdm6wqc8v735w3snquejvsuk56pcvuurxaesxd68qdtkv3nrx6m6v3ehsctwvym8q0mzwfhkzerrv9ehg0t5wf6k2q3qfw5wsmfdj7ykmjfn0sl9qp533y7hx96h9lvplz6pmhd9mzwn9hjqxpqqqqqqz5wq496)** (Conteúdo em Língua do Artigo)
+
+-----
+
+**[Declaração de independência do ciberespaço-John Perry Barlow - 1996](https://snort.social/e/nevent1qqs2njsy44n6p07mhgt2tnragvchasv386nf20ua5wklxqpttf6mzuqpzpmhxue69uhkummnw3ezumt0d5hsygzt4r5x6tvh39kujvmu8egqdyvf84e3w4e0mq0ckswamfwcn5eduspsgqqqqqqsukg4hr)** (Conteúdo em Língua do Artigo)
+
+-----
+
+
