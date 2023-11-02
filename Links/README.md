@@ -4,6 +4,12 @@ Hacker News é um site de notícias sociais com foco em ciência da computaçã
 
 -----
 
+**[bitcoin TLDR](https://tldr.bitcoinsearch.xyz/)**
+
+bitcoin TLDR postagens resumidas das lista de discusão bitcoin-dev e LightningNetwork-dev. o tdlr existe para facilitar o envolvimento em discusão técnicas sobre bitcooin e Lightning Network.
+
+-----
+
 **[ Open Source ](https://awesomeopensource.com/)** 
 
 Open Source Encontre o projeto de código aberto certo para resolver seus problemas navegando em nossas categorias selecionadas por especialistas e comparando alternativas usando repo e metadados de pacote.
