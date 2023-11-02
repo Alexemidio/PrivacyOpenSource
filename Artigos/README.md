@@ -405,4 +405,8 @@ Timothy C. May – 1992.](https://snort.social/e/nevent1qqspp480wtyx2zhtwpu5gptr
 
 -----
 
+**[The Cyphernomicon: Criptografia, Dinheiro Digital e o Futuro da Privacidade. escrito por Timothy C. May -Publicado em 1994.](https://github.com/Alexemidio/PrivacyOpenSource/tree/main/The%20Cyphernomicon)** (Conteúdo em Língua do Artigo)
+
+-----
+
 
