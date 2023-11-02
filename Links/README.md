@@ -1,3 +1,9 @@
+**[Opaque link ](https://opaquelink.sirion.io/)** 
+
+Cyberpunk, criptoanarquia, extremismo de privacidade, segurança, estratégia.
+
+-----
+
 **[Hacker New ](https://news.ycombinator.com/)**
 
 Hacker News é um site de notícias sociais com foco em ciência da computação e empreendedorismo
@@ -21,6 +27,12 @@ Open Source Encontre o projeto de código aberto certo para resolver seus proble
 É como o Hacker News, mas nós pagamos a você Bitcoin
 
 -----
+
+**[anarplex net]( https://anarplex.sirion.io/)** 
+
+Arquivos e projetos relacionados a: cripto-tribos, phyles, cripto-anarquia, agorismo, provedor de serviços darknet.
+
+------
 
 **[ Silent ](https://silent.link/)**
 
