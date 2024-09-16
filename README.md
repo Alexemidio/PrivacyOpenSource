@@ -56,7 +56,8 @@ Agradecemos o seu feedback e sugestões para melhorar o PrivacyOpenSource. Se vo
 
 Se você tiver alguma dúvida ou precisar de mais assistência, você pode entrar em contato com os mantenedores do PrivacyOpenSource pelos seguintes canais :
 - Twitter: alexemidio7
-- Nostr : alexemidio@alexemidio.github.io
+-  Nostr : alexemidio@alexemidio.github.io
+
 
 Vamos colaborar e construir um recurso abrangente para entusiastas de privacidade e código aberto!
 
